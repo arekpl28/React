@@ -8,7 +8,7 @@ class ShoppingList extends React.Component {
   render() {
     return (
       <>
-        <h1>Shopping lis:</h1>
+        <h1>Shopping list:</h1>
         <ul>
           <ItemList name={this.state.items1} />
           <ItemList name={this.state.items2} />
