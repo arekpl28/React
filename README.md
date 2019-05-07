@@ -12,3 +12,6 @@ https://arekpl28.github.io/React//03%20Input%20text/index.html
 
 ### 04 Show and hide text
 https://arekpl28.github.io/React/04%20Show%20and%20hide%20text/index.html
+
+### 05 Counting clicks
+https://arekpl28.github.io/React/05%20Counting%20clicks/index.html
