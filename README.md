@@ -15,3 +15,6 @@ https://arekpl28.github.io/React/04%20Show%20and%20hide%20text/index.html
 
 ### 05 Counting clicks
 https://arekpl28.github.io/React/05%20Counting%20clicks/index.html
+
+### 06 Checkbox
+https://arekpl28.github.io/React/06%20Checkbox/index.html
