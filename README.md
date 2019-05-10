@@ -18,3 +18,6 @@ https://arekpl28.github.io/React/05%20Counting%20clicks/index.html
 
 ### 06 Checkbox
 https://arekpl28.github.io/React/06%20Checkbox/index.html
+
+### 07 Schopping Cart
+https://arekpl28.github.io/React/07%20Schopping%20Cart/index.html
