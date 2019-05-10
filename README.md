@@ -21,3 +21,6 @@ https://arekpl28.github.io/React/06%20Checkbox/index.html
 
 ### 07 Schopping Cart
 https://arekpl28.github.io/React/07%20Schopping%20Cart/index.html
+
+### 08 Displaying array elements in list
+https://arekpl28.github.io/React//08%20Displaying%20array%20elements%20in%20list/index.html
