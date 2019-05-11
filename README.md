@@ -30,3 +30,6 @@ https://arekpl28.github.io/React/09%20Interactive%20restaurant%20menu/index.html
 
 ### 10 Form
 https://arekpl28.github.io/React/10%20Form/index.html
+
+### 11 Value of goods
+https://arekpl28.github.io/React/11%20Value%20of%20goods/index.html
