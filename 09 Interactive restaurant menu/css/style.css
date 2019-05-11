@@ -1,0 +1,27 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+ul li {
+  line-height: 160%;
+  padding: 20px 10px;
+  cursor: pointer;
+}
+
+ul li.enabled {
+  font-weight: bold;
+}
+
+ul li.disabled {
+  color: gray;
+}
+
+ul li:nth-child(even) {
+  background-color: #eeeeee;
+}
+
+ul li:nth-child(odd) {
+  background-color: #cccccc;
+}
+/*# sourceMappingURL=style.css.map */
