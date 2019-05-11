@@ -24,3 +24,6 @@ https://arekpl28.github.io/React/07%20Schopping%20Cart/index.html
 
 ### 08 Displaying array elements in list
 https://arekpl28.github.io/React//08%20Displaying%20array%20elements%20in%20list/index.html
+
+### 09 Interactive restaurant menu
+https://arekpl28.github.io/React/09%20Interactive%20restaurant%20menu/index.html
