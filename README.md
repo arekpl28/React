@@ -36,3 +36,6 @@ https://arekpl28.github.io/React/11%20Value%20of%20goods/index.html
 
 ### 12 Removing items from the list
 https://arekpl28.github.io/React/12%20Removing%20items%20from%20the%20list/index.html
+
+### 13 Project with componentDidUpdate
+https://arekpl28.github.io/React/13%20Project%20with%20componentDidUpdate/index.html
