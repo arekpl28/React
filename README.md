@@ -33,3 +33,6 @@ https://arekpl28.github.io/React/10%20Form/index.html
 
 ### 11 Value of goods
 https://arekpl28.github.io/React/11%20Value%20of%20goods/index.html
+
+### 12 Removing items from the list
+https://arekpl28.github.io/React/12%20Removing%20items%20from%20the%20list/index.html
